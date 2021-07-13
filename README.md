@@ -13,8 +13,9 @@ I am a Data Science student from India. A Highly analytical individual with stro
 [![Medium Badge](https://img.shields.io/badge/-OmkarKhilari-000000?style=flat&logo=Medium&logoColor=white)](https://omkarkhilari.medium.com/)
 
 
+- Currently working as Software Engineer Trainee at Yardi Systems.
 - 🔭 I’m currently working on data science projects relating to different domains. 
-- 🌱 I’m currently learning Data Science and Artificial Intelligence at AAIC. 
+- 🌱 I’m currently learning Data Science and Artificial Intelligence from AAIC. 
 - 💬 Ask me about Machine Learning. 
 - 📫 How to reach me: omkhilariindia@gmail.com
 - ⚡ Fun fact: I love Playing,singing,drawing, interior decor and also I am learning German. 
@@ -24,7 +25,7 @@ I am a Data Science student from India. A Highly analytical individual with stro
 
 #### Languages
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
-<code><img height="26" src="https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg/"></code>
+<code><img height="26" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"/></code>
 
 #### Libraries/Frameworks
 <code><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
@@ -58,7 +59,7 @@ I am a Data Science student from India. A Highly analytical individual with stro
 
 <br>
 
-I love sharing knowledge, together for helping other developers .
+I love sharing knowledge, It makes my Knowledge strong.
 
 ## &#x1f4c8; GitHub Stats :
 
@@ -73,4 +74,3 @@ I love sharing knowledge, together for helping other developers .
 </a>  
 
 [![Lakshmipriya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MautKaFarishta&theme=react-dark&hide_border=true)](https://github.com/MautKaFarishta/)
-{"mode":"full","isActive":false}

@@ -13,7 +13,7 @@ I am a Data Science student from India. A Highly analytical individual with stro
 [![Medium Badge](https://img.shields.io/badge/-OmkarKhilari-000000?style=flat&logo=Medium&logoColor=white)](https://omkarkhilari.medium.com/)
 
 
-- Currently working as Software Engineer Trainee at Yardi Systems.
+- Currently working as Software Engineer at Yardi Systems.
 - 🔭 I’m currently working on data science projects relating to different domains. 
 - 🌱 I’m currently learning Data Science and Artificial Intelligence from AAIC. 
 - 💬 Ask me about Machine Learning. 
